@@ -79,17 +79,20 @@ Output:
 
 Java separetes errors by two types: Exceptions, errors that is possbile to solve and Errors, that isn't possible to be solved.
 
-![img1](https://github.com/LuanTMoura/Study-Exceptions/assets/106880830/ba7e0b27-0755-4450-90b5-9f98c07365fe)
+![img1](https://github.com/LuanTMoura/Study-Exceptions/assets/106880830/73ee5df7-cf19-4d0c-b422-b42e37dcd03c)
+
 
 ## Exceptions
 
 On the example of image below, everyone who inherit a `RuntimeException` is considered a Uncheked Exception. Uncheked Exceptions are generlly used on business error, which means, errors unexpected by the application – problably occurred a logical error or programming error. In a conclusion, isn't obligatory to use `Throws` exceptions.
 
-![img2](https://github.com/LuanTMoura/Study-Exceptions/assets/106880830/8f54fd69-300b-4fbf-a24f-fa199bf2f440)
+![img2](https://github.com/LuanTMoura/Study-Exceptions/assets/106880830/33722795-4ce8-4833-b088-44d184bb51ea)
+
 
 Even inside the three of inherit, there are the Checked Exceptions, that inherit directly of Exception.
 
-![img3](https://github.com/LuanTMoura/Study-Exceptions/assets/106880830/e4d846ed-4013-45fc-9314-e791e3860b11)
+![img3](https://github.com/LuanTMoura/Study-Exceptions/assets/106880830/3ea9765b-39ad-4f86-8664-a7f370216281)
+
 
 ## Exceptions in pratice
 
